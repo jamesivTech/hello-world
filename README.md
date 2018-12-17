@@ -1,2 +1,2 @@
 # hello-world
-this is a tutorial on GitHub. 
+My name is Ishmail James, I'm a computer a Student that attends Broward College for Informational Technology.
