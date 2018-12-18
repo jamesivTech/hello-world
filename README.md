@@ -1,2 +1,2 @@
 # hello-world
-My name is Ishmail James, I'm a computer a Student that attends Broward College for Informational Technology.
+My Broward College for Informational Technology.My name is Ishmail James, I'm a computer Student that attends 
